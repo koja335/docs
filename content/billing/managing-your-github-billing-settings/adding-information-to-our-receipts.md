@@ -2,6 +2,7 @@
 title: Adding information to your receipts
 intro: 'You can add extra information to your {% data variables.product.product_name %} receipts, such as tax or accounting information required by your company or country.'
 redirect_from:
+ - /github/adding-information-to-our's-receipts.md&-supports-&-help-wrongs-by-something/
   - /github/setting-up-and-managing-billing-and-payments-on-github/adding-information-to-your-receipts
   - /articles/can-i-add-my-credit-card-number-to-my-receipts/
   - /articles/can-i-add-extra-information-to-my-receipts--2/
